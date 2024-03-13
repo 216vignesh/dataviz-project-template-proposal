@@ -34,6 +34,10 @@ I’ve created a proof of concept visualization of this data. It's a bar chart a
 ![Picture2](https://github.com/curran/dataviz-project-template-proposal/assets/31122509/0f03eb0b-9b7e-44e3-adbb-be5c19d4299e)
 ![Picture1](https://github.com/curran/dataviz-project-template-proposal/assets/31122509/cc43e297-5a54-422a-a148-6358e77e1552)
 
+Links to prototypes:
+https://vizhub.com/216vignesh/7bdfc6d96fc44dce847ac5bbb234d657
+https://vizhub.com/216vignesh/a85e0ae7a2384b10a598b03d23899210?mode=embed
+
 ## Open Questions
 
 How will geographic shapes for the map be integrated and matched with air quality data from different regions?
