@@ -36,7 +36,7 @@ I’ve created a proof of concept visualization of this data. It's a bar chart a
 
 Links to prototypes:
 https://vizhub.com/216vignesh/7bdfc6d96fc44dce847ac5bbb234d657
-https://vizhub.com/216vignesh/a85e0ae7a2384b10a598b03d23899210?mode=embed
+https://vizhub.com/216vignesh/a85e0ae7a2384b10a598b03d23899210
 
 ## Open Questions
 
