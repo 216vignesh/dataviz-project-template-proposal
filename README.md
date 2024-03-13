@@ -21,8 +21,10 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+![Picture3](https://github.com/curran/dataviz-project-template-proposal/assets/31122509/dca2a980-8e10-4652-bc28-311571978fdd)
+
+In this visualization, there is a map which shows different regions in New York City which the user can select. After selecting the region, the user needs to also select a parameter that he/she needs to visualize from the drop down menu. Once this is selected, a time series graph will be displayed where the parameter will be visualized against time in that particular region.
+With this we can answer the questions mentioned above like checking NO2 levels across different regions over time, comparing NO2 level within a timeframe, impact of selecting different air quality criteria and making the visualizations more user friendly.
 
 
 ## Prototypes
@@ -31,23 +33,16 @@ I’ve created a proof of concept visualization of this data. It's a bar chart a
 
 ![Picture2](https://github.com/curran/dataviz-project-template-proposal/assets/31122509/0f03eb0b-9b7e-44e3-adbb-be5c19d4299e)
 ![Picture1](https://github.com/curran/dataviz-project-template-proposal/assets/31122509/cc43e297-5a54-422a-a148-6358e77e1552)
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+How will geographic shapes for the map be integrated and matched with air quality data from different regions?
+Is the data granular and consistent enough across regions and time periods to allow for meaningful comparisons and visualizations?
+How can we ensure the interface is intuitive and accessible for users?
 
 ## Milestones
-
-(for each week, estimate what would be accomplised)
+Week 1: Research and data preparation including gathering all necessary air quality data, preparing geographic data for the map, and ensuring data consistency.
+Week 2: Prototype development. Begin the development of the interactive map
+Week 3: Adding interactive elements and criteria selection.
+Week 4: Usability testing and refinement. 
+Week 5: Final adjustments and project completion
