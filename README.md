@@ -29,7 +29,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 I’ve created a proof of concept visualization of this data. It's a bar chart and it shows top 5 regions with high NO2 levels. Also I have added new techniques to it like adding legends, color of the bar according to the values, hovering over to get the values, etc.
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+![Picture2](https://github.com/curran/dataviz-project-template-proposal/assets/31122509/0f03eb0b-9b7e-44e3-adbb-be5c19d4299e)
 ![Picture1](https://github.com/curran/dataviz-project-template-proposal/assets/31122509/cc43e297-5a54-422a-a148-6358e77e1552)
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
