@@ -21,7 +21,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-![Picture3](https://github.com/curran/dataviz-project-template-proposal/assets/31122509/dca2a980-8e10-4652-bc28-311571978fdd)
+![Picture3](https://github.com/216vignesh/dataviz-project-template-proposal/assets/31122509/c7ee878a-6bb4-4f31-af96-a76679b1b9d4)
 
 In this visualization, there is a map which shows different regions in New York City which the user can select. After selecting the region, the user needs to also select a parameter that he/she needs to visualize from the drop down menu. Once this is selected, a time series graph will be displayed where the parameter will be visualized against time in that particular region.
 With this we can answer the questions mentioned above like checking NO2 levels across different regions over time, comparing NO2 level within a timeframe, impact of selecting different air quality criteria and making the visualizations more user friendly.
@@ -31,8 +31,8 @@ With this we can answer the questions mentioned above like checking NO2 levels a
 
 I’ve created a proof of concept visualization of this data. It's a bar chart and it shows top 5 regions with high NO2 levels. Also I have added new techniques to it like adding legends, color of the bar according to the values, hovering over to get the values, etc.
 
-![Picture2](https://github.com/curran/dataviz-project-template-proposal/assets/31122509/0f03eb0b-9b7e-44e3-adbb-be5c19d4299e)
-![Picture1](https://github.com/curran/dataviz-project-template-proposal/assets/31122509/cc43e297-5a54-422a-a148-6358e77e1552)
+![Picture2](https://github.com/216vignesh/dataviz-project-template-proposal/assets/31122509/3a112698-ac86-46f9-bf1b-771b6eb02c50)
+![Picture1](https://github.com/216vignesh/dataviz-project-template-proposal/assets/31122509/25be86eb-90b0-40f2-a121-e4f8be6a3226)
 
 Links to prototypes:
 https://vizhub.com/216vignesh/7bdfc6d96fc44dce847ac5bbb234d657
