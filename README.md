@@ -27,6 +27,9 @@ In this visualization, there is a map which shows different regions in New York 
 https://github.com/nycehs/NYC_geography/blob/master/UHF34.geo.json?short_path=718030a. From the dataset we have Geo_Type_Name, Geo_Join_ID to uniquely determine the Geo_Place_Name and we could identify these areas from the GeoJSON file we have here in the mentioned GitHub link. After selecting the region, the user needs to also select a parameter that he/she needs to visualize from the drop down menu. Once this is selected, a time series graph will be displayed where the parameter will be visualized against time in that particular region.
 With this we can answer the questions mentioned above like checking NO2 levels across different regions over time, comparing NO2 level within a timeframe, impact of selecting different air quality criteria and making the visualizations more user friendly.
 
+This is an example of how the GeoJSON file looks
+![github](https://github.com/216vignesh/dataviz-project-template-proposal/assets/31122509/cecaa2d0-db91-4789-98b3-49d3444584a7)
+
 
 ## Prototypes
 
