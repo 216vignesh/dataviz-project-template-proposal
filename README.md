@@ -23,7 +23,8 @@ The following tasks and questions will drive the visualization and interaction d
 
 ![Picture3](https://github.com/216vignesh/dataviz-project-template-proposal/assets/31122509/c7ee878a-6bb4-4f31-af96-a76679b1b9d4)
 
-In this visualization, there is a map which shows different regions in New York City which the user can select. After selecting the region, the user needs to also select a parameter that he/she needs to visualize from the drop down menu. Once this is selected, a time series graph will be displayed where the parameter will be visualized against time in that particular region.
+In this visualization, there is a map which shows different regions in New York City which the user can select. The map can be created using New York City GeoJSON data which is available in the below URL:
+https://github.com/nycehs/NYC_geography/blob/master/UHF34.geo.json?short_path=718030a. From the dataset we have Geo_Type_Name, Geo_Join_ID to uniquely determine the Geo_Place_Name and we could identify these areas from the GeoJSON file we have here in the mentioned GitHub link. After selecting the region, the user needs to also select a parameter that he/she needs to visualize from the drop down menu. Once this is selected, a time series graph will be displayed where the parameter will be visualized against time in that particular region.
 With this we can answer the questions mentioned above like checking NO2 levels across different regions over time, comparing NO2 level within a timeframe, impact of selecting different air quality criteria and making the visualizations more user friendly.
 
 
@@ -41,6 +42,8 @@ https://vizhub.com/216vignesh/a85e0ae7a2384b10a598b03d23899210
 ## Open Questions
 
 How will geographic shapes for the map be integrated and matched with air quality data from different regions?
+This can be done using the GeoJSON file we got from the above mentioned github link.
+
 Is the data granular and consistent enough across regions and time periods to allow for meaningful comparisons and visualizations?
 How can we ensure the interface is intuitive and accessible for users?
 
