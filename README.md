@@ -56,3 +56,11 @@ Week 2: Prototype development. Begin the development of the interactive map
 Week 3: Adding interactive elements and criteria selection.
 Week 4: Usability testing and refinement. 
 Week 5: Final adjustments and project completion
+
+
+Does the visualization answer initial questions?
+The code integrates a map that allows users to click on different regions and dynamically updates time series chart based on the geoplace name and the parameter chosen, so it aligns with the initial questions.
+Upon selection of a map region and a parameter, the code effectively filters csvData and updates the visualization to reflect these selections. This ensures that users can obtain specific insights into how various factors (as represented by the Name parameters) vary across different geographical areas over time.
+
+
+Aesthetics : The code sets up a visual representation that includes a map and a time series chart, which are fundamental elements for spatial and temporal data analysis. In order to enhance the asthetics, I could add color legends for both map and graph to provide context on the data. I could also improve the styling of the map and place it properly on the screen for easy readability. Also I could make the visualization more interactive by adding tooltips that display when hovering over the map. Also I need to improve the clarity of the visualization.
