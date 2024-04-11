@@ -57,7 +57,7 @@ Week 3: Adding interactive elements and criteria selection.
 Week 4: Usability testing and refinement. 
 Week 5: Final adjustments and project completion
 
-Project Self Critique and Prioritization:
+## Project Self Critique and Prioritization:
 Does the visualization answer initial questions?
 The code integrates a map that allows users to click on different regions and dynamically updates time series chart based on the geoplace name and the parameter chosen, so it aligns with the initial questions.
 Upon selection of a map region and a parameter, the code effectively filters csvData and updates the visualization to reflect these selections. This ensures that users can obtain specific insights into how various factors (as represented by the Name parameters) vary across different geographical areas over time.
