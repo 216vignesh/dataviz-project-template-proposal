@@ -68,12 +68,6 @@ Yes the data is granular and consistent across regions and it allows meaningful 
 How can we ensure the interface is intuitive and accessible for users?
 The interface is easy to use and the user just needs to select the region and the parameter to visualize.
 
-## Milestones
-Week 1: Research and data preparation including gathering all necessary air quality data, preparing geographic data for the map, and ensuring data consistency.
-Week 2: Prototype development. Begin the development of the interactive map
-Week 3: Adding interactive elements and criteria selection.
-Week 4: Usability testing and refinement. 
-Week 5: Final adjustments and project completion
 
 ## Conclusion:
 This project effectively captures the data visualization of New York City's air quality, offering a comprehensive understanding of how air pollutants like NO2 fluctuate throughout various time periods and geographical areas. In addition to improving understanding of regional air quality trends, the interactive map selection feature that allows users to select different regions and view different air quality parameters in a time series format also gives users the ability to make well-informed observations about the environmental conditions affecting New York City.
