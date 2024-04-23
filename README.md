@@ -6,18 +6,18 @@ The data I propose to visualize for my project is New York City air quality surv
 
 Link to dataset : https://catalog.data.gov/dataset/air-quality
 
-## Questions & Tasks
+## Questions & Accomplishments
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
+The following accomplishments and questions will drive the visualization and interaction decisions for this project:
 
  * How do NO2 levels vary across different regions over time?
-   We need to explore spatial and temporal trends in air quality data, focusing on NO2 levels for various areas
- * Can users compare NO2 level across different regions within a specific timeframe?
-   Task is to enable users to select regions on map and visualize NO2 or other parameters over the period.
+   A time series graph has been implemented which shows the variation of NO2 levels as well as other parameters over time. Users need to select the regions on the map for which they need to see the variation of several parameters over time and also the parameter they       want to visualize
+
  * What is the impact of selecting different air quality criteria?
-   The task is to explore how the choice of criteria influences the understanding of air quality in different areas.
+   The task is to explore how the choice of criteria influences the understanding of air quality in different areas. The visualization shows how different parameters like NO2 level, Deaths due to PM2.5, etc. has affected the city over time.
+   
  * How user-friendly and intuitive is the interactive visualization for non-expert users?
-   This task focuses on assessing the usability of the interactive visualization, ensuring that it is accessible to all.
+   This task focuses on assessing the usability of the interactive visualization, ensuring that it is accessible to all. The visualization is user friendly and helps to navigate to the graphs easily and also understand the graph in much detail.
 
 ## Sketches
 
