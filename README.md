@@ -33,7 +33,7 @@ This is an example of how the GeoJSON file looks
 
 ## Visualization outputs
 
-I have created the visualizations as per the above sketch using D3.js. Here is the complete snapshot of how the visualization looks like
+I have created the visualizations as per the above sketch using D3.js. Here is the complete snapshot of how the visualization looks like:
 
 ![image](https://github.com/216vignesh/dataviz-project-template-proposal/assets/31122509/1d5eb5f3-045b-4a3b-95e1-bff1646f2575)
 
@@ -44,6 +44,9 @@ I have created the visualizations as per the above sketch using D3.js. Here is t
 The first image is a multiple line graph showing average Air Quality levels for the selected parameters across four divisions of NYC i.e. UHF34, UHF42, Borough and Community District(CD). Here the selected parameter is Nitrogen Dioxide (NO2) levels.
 The second image is a map of the selected division (i.e. UHF34). The overall air quality is represented as a heatmap on top of the map with the darkest colors representing worser conditions and the lighter ones representing good conditions.
 The third image is the trend of the selected parameter over the years. It can be seen as a time series graph with years on the X axis and Value on the Y axis.
+
+Also here is the vizhub URL to the project:
+https://vizhub.com/216vignesh/d52365615c8d40f0af3905df1a41eab0
 
 I’ve also created a proof of concept visualization of this data. It's a bar chart and it shows top 5 regions with high NO2 levels. Also I have added new techniques to it like adding legends, color of the bar according to the values, hovering over to get the values, etc.
 
